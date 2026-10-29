@@ -24,9 +24,9 @@ Explícalo en 2 o 3 líneas, con tus palabras (Hito 3).
 
 Una entrada al final de cada sesión: fecha, qué has hecho y qué te ha costado o qué has preguntado.
 
-- 27/10/2026 · Hecho: ...
-  Me ha costado: ...
-  He preguntado: ...
+- 27/10/2026 · Hecho: Creacion de los 3 arrays, enlazarlos y crear una carpeta de Readme en GitHub
+  Me ha costado: Vincular mi cuenta GitHub con el VSC y crear el archivo README
+  He preguntado: Como vincular GitHub con VSC y como crear el archivo Readme en GitHub
 
 ## Uso de IA
 
@@ -40,4 +40,4 @@ Si no la has usado, escribe «No he usado IA».
 
 ## Git (opcional)
 
-Si llevas el proyecto en Git, pon aquí el enlace al repositorio:
+Si llevas el proyecto en Git, pon aquí el enlace al repositorio: https://github.com/Lasi2001/js
